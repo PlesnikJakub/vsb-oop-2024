@@ -31,6 +31,8 @@
 - Odevzdejte jeden soubor s kódem v jazyce C (.c), který obsahuje všechny implementované programy.
 - Každý úkol jasně označte komentáři nebo záhlavími sekcí pro snadnou identifikaci.
 - jakub.plesnik@vsb.cz
+- Předmět: OOP Test - XXX
+   - místo XXX použijte váš login
 
 **Termín odevzdání:**
 Odevzdejte svůj úkol do neděle 2.3.2024.
