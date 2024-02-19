@@ -33,6 +33,6 @@
 - jakub.plesnik@vsb.cz
 
 **Termín odevzdání:**
-Odevzdejte svůj úkol do neděle 2.3.2024. Pozdní odevzdání může vést k pokutám, pokud nebyly učiněny předchozí domluvy.
+Odevzdejte svůj úkol do neděle 2.3.2024.
 
 **Poznámka:** Hodně štěstí!
