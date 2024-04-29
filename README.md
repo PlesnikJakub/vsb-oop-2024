@@ -13,3 +13,4 @@
   - Předmět: oop-projekt-XXX kde XXX je váš login (ple0044)
   - Obsah bude zip soubor s názvem oop-projekt-XXX.zip kde XXX je váš login (ple0044)
   - V archivu se budou nacházet pouze soubory *.h, *.cpp, a dokumenty s popisem a diagramy (pdf, docx, txt, jpeg, png)
+  - Alternativa je odkaz na github repozitář
