@@ -7,9 +7,9 @@
 
 ### Dodatečné pokyny
 - Je silně doporučeno konzultovat zadání na cvičení
-- Termín odevzdání: __15.5.2024 23:59__
+- Termín odevzdání: nejpozději __15.5.2024 23:59__
 - Forma odevzdání:
   - Email: jakub.plesnik@vsb.cz
-  - Předmět: oop-projekt-XXX kde XXX je váš login (oop-projekt)
-  - Obsah bude zip soubor s názvem oop-projekt-XXX.zip kde XXX je váš login (oop-projekt)
+  - Předmět: oop-projekt-XXX kde XXX je váš login (ple0044)
+  - Obsah bude zip soubor s názvem oop-projekt-XXX.zip kde XXX je váš login (ple0044)
   - V archivu se budou nacházet pouze soubory *.h, *.cpp, a dokumenty s popisem a diagramy (pdf, docx, txt, jpeg, png)
